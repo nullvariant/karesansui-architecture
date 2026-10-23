@@ -209,6 +209,19 @@
 
 手入れすること、それ自体が修行です。
 
+庭師はひとりで手入れをしているわけではありません。
+毎日、二人の見習いが熊手を取ります。
+Claude と Codex です。
+
+[![見習い: Claude](https://img.shields.io/badge/🧹_Apprentice-Claude-D97757?logo=claude&logoColor=white)](https://www.anthropic.com/claude-code) [![見習い: Codex](https://img.shields.io/badge/🧹_Apprentice-Codex-000000)](https://developers.openai.com/codex)
+
+見習いは石の置き場所を決めません。
+砂紋を描き、草を抜き、見つけたことを伝えます。
+庭師がうなずかない限り、庭には何も置かれません。
+
+見習いは手入れをしながら庭を学びます。
+庭師は教えながら庭を学びます。
+
 ゴールはありません。
 求める拍手もありません。
 
